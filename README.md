@@ -37,6 +37,6 @@ Along with the user response, some basic information about the users is collecte
 'Prefer home food': 'Do you prefer home food?' <br>
 'Offer Accepted': ' Did you accept the offer?' <br>
 Target Variable: Offer Accepted <br>
-Most of the column names are self-explanatory names </p>
+(Most of the column names are self-explanatory names) </p>
 <p>In the above notebook various ML models have been implemented on the dataset and tested for their Accuracy and Precision. Finally the one with best accuracy value has been used for the test dataset to generate the predicted results based on data given.</p>
 <p>• kaggle Compeition link: https://www.kaggle.com/competitions/marketing-strategy-personalised-offer/data</p>
