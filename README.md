@@ -5,7 +5,7 @@ Example Scenario: You are driving from IIT Madras to Chennai Airport along with 
 
 Along with the user response, some basic information about the users is collected.
 <h3>columns in the dataset</h3>
-data_dictionary = {'offer expiration':'Number of days offer is valid <br>
+<p>data_dictionary = {'offer expiration':'Number of days offer is valid <br>
 'income_range': 'income range' <br>
 'no_visited_Cold drinks':'Number of times visited cold drinks' <br>
 'travelled_more_than_15mins_for_offer':'Have you traveled more than 15 mins to avail an offer?' <br>
@@ -37,7 +37,6 @@ data_dictionary = {'offer expiration':'Number of days offer is valid <br>
 'Prefer home food': 'Do you prefer home food?' <br>
 'Offer Accepted': ' Did you accept the offer?' <br>
 Target Variable: Offer Accepted <br>
-Most of the column names are self-explanatory names
-<br>
+Most of the column names are self-explanatory names </p>
 <p>In the above notebook various ML models have been implemented on the dataset and tested for their Accuracy and Precision. Finally the one with best accuracy value has been used for the test dataset to generate the predicted results based on data given.</p>
 <p>• kaggle Compeition link: https://www.kaggle.com/competitions/marketing-strategy-personalised-offer/data</p>
