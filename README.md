@@ -39,5 +39,5 @@ data_dictionary = {'offer expiration':'Number of days offer is valid <br>
 Target Variable: Offer Accepted <br>
 Most of the column names are self-explanatory names
 <br>
-In the above notebook various ML models have been implemented on the dataset and tested for their Accuracy and Precision. Finally the one with best accuracy value has been used for the test dataset to generate the predicted results based on data given.<br>
+In the above notebook various ML models have been implemented on the dataset and tested for their Accuracy and Precision. Finally the one with best accuracy value has been used for the test dataset to generate the predicted results based on data given.<p>
 • kaggle Compeition link: https://www.kaggle.com/competitions/marketing-strategy-personalised-offer/data
