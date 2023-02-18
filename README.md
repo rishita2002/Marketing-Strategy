@@ -4,7 +4,7 @@ The data is collected through a survey to understand the driver's behavior regar
 Example Scenario: You are driving from IIT Madras to Chennai Airport along with your family and you get an offer (10 percent discount on the bill) from the famous Chinese restaurant in Guindy. Will you avail of the offer while traveling?
 
 Along with the user response, some basic information about the users is collected.
-<h3>Columns</h3>
+<h3>columns in the dataset</h3>
 data_dictionary = {'offer expiration':'Number of days offer is valid <br>
 'income_range': 'income range' <br>
 'no_visited_Cold drinks':'Number of times visited cold drinks' <br>
